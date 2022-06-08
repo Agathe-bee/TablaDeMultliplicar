@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TablaDeMultliplicar</string>
+    <string name="titulo">Tablas de Multiplicar</string>
+    <string name="txtnumero">Ingresar número</string>
+    <string name="btnmulti">Multiplicar</string>
+    <string name="btnsalir">Salir</string>
+    <string name="res">Resultado</string>
+</resources>
